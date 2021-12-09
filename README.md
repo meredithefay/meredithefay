@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meredithefay, a graduate student in the Lam lab at Georgia Tech and Emory University
+- 👋 Hi, I’m @meredithefay, a PhD student in the Lam lab at Georgia Tech and Emory University
 - 👀 I’m interested in helping other academic researchers extract meaningful metrics from any format experimental data
 - 🌱 I’m currently learning the ins-and-outs of publishing open source software
 - 💞️ I’m looking to expand my skills to neuroscience experiments and studies
