@@ -2,7 +2,7 @@
 - 👩🏻‍💻 Here you can find code I've personally written over the course of my degree, I also maintain github.com/LamLabEmory
 - 👀 I’m interested in helping other academic researchers extract meaningful metrics from any format experimental data
 - 🌱 I’m currently learning the ins-and-outs of publishing open source software, be sure to check out github.com/iCLOTS!
-- 💞️ I’m looking to expand my skills to social good experiments and studies
+- 💞️ I’m always looking to expand my skills to best help others through social good experiments and studies and/or sharing tools with interested researchers
 - 👩🏻‍🎓 I am passionate about persuing an academic career and am actively searching for a post-doc beginning Summer 2023
 - 📫 Reach me at mfay7@gatech.edu
 
