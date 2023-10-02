@@ -4,7 +4,7 @@
 - 💞️ I’m always looking to expand my skills such that I can help others interpret their hard-won data for social good
 - 🌱 I’m currently learning the ins-and-outs of fetal- and infant-focused neuroimaging analysis
 - 🩸 I serve as lead software engineer for open-source project iCLOTS, be sure to check out github.com/iCLOTS!
-- 📫 Reach me at meredith.e.fay@gmail.com
+- 📫 Reach me at meredith.fay@duke.edu or meredith.fay@gapjunctiondata.com
 
 <!---
 meredithefay/meredithefay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
